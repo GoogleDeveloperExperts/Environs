@@ -5,13 +5,15 @@ For both hosts and participants, a lot of times doing an Android based code-lab 
 
 This project provides a VirtualBox image, along with instructions, that can be distributed on a flash drive, with everything set up and ready to go. 
 
+### Instructions
+
 * Download the image from here: http://goo.gl/W6OQA7
 * Verify the MD5 sum: 935f80992c6d4ec638382f9626a2fe7a
-* Extract the archive, then import the .ova file into VirtualBox 4.3
+* Import the .ova file into VirtualBox 4.3
 * Fire it up
 * Credentials are dev/dev (user/pass)
 
-A few notes:
+### Notes:
 
 * You must be running on an x86_64 host.
 * SDK and Studio are installed in ~/bin/
@@ -25,6 +27,6 @@ A few notes:
     * Java 7
     * Android Studio 1.0.2
 
-Suggestion:
+### Suggestion:
 
 If you want to use this in your own workshop, pull it down, and try it out first. If you have a specific sample project(s) that you want to use, pull it down, import it, and test it out before putting this on a bunch of flash drives. 
