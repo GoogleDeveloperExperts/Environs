@@ -13,9 +13,12 @@ This project provides a VirtualBox image, along with instructions, that can be d
 * Fire it up
 * Credentials are dev/dev (user/pass)
 
+During the event, pass out a flash drive with the VirtualBox installers for every system, as well as Environs.ova. Have participants install VirtualBox and then import the Environs file. (They’ll need about 16GB free disk space.)
+
 ### Notes:
 
 * You must be running on an x86_64 host.
+* Must have 16GB free disk space
 * SDK and Studio are installed in ~/bin/
 * Code lives in ~/workspace/
 * Many Glass samples have been pulled down, and imported into AS
