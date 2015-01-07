@@ -7,9 +7,9 @@ This project provides a VirtualBox image, along with instructions, that can be d
 
 ### Instructions
 
-* Download the image from here: http://goo.gl/W6OQA7
-* Verify the MD5 sum: 935f80992c6d4ec638382f9626a2fe7a
-* Import the .ova file into VirtualBox 4.3
+* Download the image from here: http://goo.gl/akzdas
+* Verify the MD5 sum: 7d2f153663e81ac6c024f1610201f1af
+* Import the .ova file into VirtualBox 4.3.20
 * Fire it up
 * Credentials are dev/dev (user/pass)
 
