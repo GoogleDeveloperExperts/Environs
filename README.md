@@ -22,7 +22,7 @@ For participants:
 1. Fire it up
 1. Credentials are dev/dev (user/pass)
 
-During the event, pass out a flash drive with the VirtualBox installers for every system, as well as Environs.ova. Have participants install VirtualBox and then import the Environs file. (They’ll need about 16GB free disk space.)
+During the event, pass out a flash drive with the VirtualBox installers for every system, as well as Environs.ova. Have participants install VirtualBox and then import the Environs file. (They’ll need about 30GB free disk space.)
 
 ### Notes:
 
