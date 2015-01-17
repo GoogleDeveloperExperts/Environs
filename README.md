@@ -7,18 +7,27 @@ This project provides a VirtualBox image, along with instructions, that can be d
 
 ### Instructions
 
-* Download the image from here: http://goo.gl/akzdas
-* Verify the MD5 sum: 7d2f153663e81ac6c024f1610201f1af
-* Import the .ova file into VirtualBox 4.3.20
-* Fire it up
-* Credentials are dev/dev (user/pass)
+1. Download the image from here: http://goo.gl/JYevDF
+1. Verify the MD5 sum: 79fc818ac8d18fd1df9f68eec0513565
+1. Extract the tbz2 archive
+1. Copy contents to flash drives
+1. Distribute flash drives
+ 
+For participants:
+
+1. Install 7zip software from flash drive
+1. Extract the 7z Environs archive to computer (will not fit on flash drive)
+1. Install VirtualBox 4.3.20 from flash drive
+1. Import the .ova file into VirtualBox 4.3.20
+1. Fire it up
+1. Credentials are dev/dev (user/pass)
 
 During the event, pass out a flash drive with the VirtualBox installers for every system, as well as Environs.ova. Have participants install VirtualBox and then import the Environs file. (They’ll need about 16GB free disk space.)
 
 ### Notes:
 
 * You must be running on an x86_64 host.
-* Must have 16GB free disk space
+* Must have ~30GB free disk space
 * SDK and Studio are installed in ~/bin/
 * Code lives in ~/workspace/
 * Many Glass samples have been pulled down, and imported into AS
